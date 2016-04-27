@@ -1,0 +1,5 @@
+The four guesses for the bugs are:
+1. The isEmpty() is flawed because it doesn't give the right status when empty based on test_isEmpty().
+2. The size() function has errors due to the fact that it gave a size greater than the actual size of the LinkedList in test_size().
+3. The addBack() function is not operating correctly because it gives the wrong value of the intended action after the execution of the function. This is noted in test_addback().
+43. The removeFront() function is not operating correctly because it gives the wrong value of the intended action after the execution of the function. This is noted in test_removefront().
