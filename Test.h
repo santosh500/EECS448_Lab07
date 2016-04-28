@@ -34,7 +34,7 @@ class Test
 				*/
 				bool test_deconstruct_LinkedList();
 				/**
-				*   @Test that checks if the size() function returns the correct size
+				*   @Test that checks if the size() function returns the correct size of the list
 				*/
 				bool test_size();
 				/**
