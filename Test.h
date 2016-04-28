@@ -1,4 +1,3 @@
-#pragma once
 /**
 *	@author Paul Charles
 *	@date 04-28-16
